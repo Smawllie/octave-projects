@@ -4,3 +4,4 @@ A program that takes in a set of data (in this case #bedrooms, square footage, a
 - Feature normalization which scales down data to guarantee gradient descent doesn't take forever to find a minimum
 - Gradient descent which is an iterative algorithm that obtains lines of fit that will always be better than before
 - The normal equation which computes the minimum without the need of iterations from gradient descent
+hi
